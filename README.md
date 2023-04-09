@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Clarisse78)](https://github.com/anuraghazra/github-readme-stats)
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=Clarisse78&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=Clarisse78&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Clarisse78&show_icons=true" />
 </picture>
