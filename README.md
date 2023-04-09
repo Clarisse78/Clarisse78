@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Clarisse78)](https://github.com/ryo-ma/github-profile-trophy)
 
-![]https://github-readme-stats.vercel.app/api/wakatime?username=Clarisse78
+![](https://github-readme-stats.vercel.app/api/wakatime?username=Clarisse78&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
