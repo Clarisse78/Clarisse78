@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=Clarisse78&show_icons=true" />
 </picture>
 
-<a href="https://github.com/Clarisse78/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Clarisse78&repo=github-readme-stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/Clarisse78/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Clarisse78&repo=convoychat" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
