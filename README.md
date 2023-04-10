@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 
 <hr>
 <details>
-  <ing src="https://wakatime.com/share/@Clarisse78/7f138df5-6ddb-4630-8f1b-6a7eae0ced1f.svg" height="400"/>
-  <details>
+  <img src="https://wakatime.com/share/@Clarisse78/7f138df5-6ddb-4630-8f1b-6a7eae0ced1f.svg" height="400"/>
 </p>
 
 <picture>
