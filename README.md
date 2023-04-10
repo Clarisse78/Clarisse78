@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     plugin_wakatime_sections: time, projects, projects-graphs # Display time and projects sections, along with projects graphs
     plugin_wakatime_limit: 4                                  # Show 4 entries per graph
     plugin_wakatime_url: http://wakapi.dev                    # Wakatime url endpoint
-    plugin_wakatime_user: .user.login                         # User
+    plugin_wakatime_user: Clarisse78                         # User
 
 
 <picture>
