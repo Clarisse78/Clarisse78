@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 
 
 <picture>
-<source 
-  srcset="https://wakatime.com/share/@Clarisse78/7f138df5-6ddb-4630-8f1b-6a7eae0ced1f.svg"
-  media="(prefers-color-scheme: dark)"
+<ing src="https://wakatime.com/share/@Clarisse78/7f138df5-6ddb-4630-8f1b-6a7eae0ced1f.svg" height="400"
 />
+<picture>
 
 <picture>
 <source 
