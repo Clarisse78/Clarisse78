@@ -17,13 +17,12 @@ Here are some ideas to get you started:
 
 <figure><embed src="https://wakatime.com/share/@Clarisse78/7f138df5-6ddb-4630-8f1b-6a7eae0ced1f.svg"></embed></figure>
 
-name: Example
-uses: lowlighter/metrics@latest
-with:
-  filename: https://wakatime.com/share/@Clarisse78/7f138df5-6ddb-4630-8f1b-6a7eae0ced1f.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: header, repositories
-  plugin_lines: yes
+
+<picture>
+<source 
+  srcset="https://wakatime.com/share/@Clarisse78/7f138df5-6ddb-4630-8f1b-6a7eae0ced1f.svg"
+  media="(prefers-color-scheme: dark)"
+/>
 
 <picture>
 <source 
