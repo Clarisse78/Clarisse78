@@ -15,16 +15,6 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Clarisse78)](https://github.com/ryo-ma/github-profile-trophy)
 
-name: WakaTime
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.wakatime.svg
-  token: NOT_NEEDED
-  base: ""
-  plugin_wakatime: yes
-  plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-  plugin_wakatime_token: ${{ secrets.waka_59078d32-a346-401f-8bfd-5abfd8f94d40 }}
-
 
 <picture>
 <source 
