@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 <figure><embed src="https://wakatime.com/share/@Clarisse78/7f138df5-6ddb-4630-8f1b-6a7eae0ced1f.svg"></embed></figure>
 
 
-<hr>
-<details>
-  <img src="https://wakatime.com/share/@Clarisse78/7f138df5-6ddb-4630-8f1b-6a7eae0ced1f.svg" height="400"/>
-</p>
+ <img src="https://wakatime.com/share/@Clarisse78/7f138df5-6ddb-4630-8f1b-6a7eae0ced1f.svg" height="400"/>
+
 
 <picture>
 <source 
