@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Clarisse78)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Clarisse78)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Clarisse78)](https://github.com/Clarisse78/github-readme-stats)
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=Clarisse78&show_icons=true&theme=dark"
