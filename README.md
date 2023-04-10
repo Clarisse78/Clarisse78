@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Clarisse78)](https://github.com/ryo-ma/github-profile-trophy)
 
+<figure><embed src="https://wakatime.com/share/@Clarisse78/7f138df5-6ddb-4630-8f1b-6a7eae0ced1f.svg"></embed></figure>
 
 <picture>
 <source 
