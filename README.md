@@ -15,7 +15,18 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Clarisse78)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Clarisse78)](https://github.com/Clarisse78/github-readme-stats)
+- uses: lowlighter/metrics@latest
+  with:
+    # ... other options
+    plugin_wakatime: yes
+    plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}      # Required
+    plugin_wakatime_days: 7                                   # Display last week stats
+    plugin_wakatime_sections: time, projects, projects-graphs # Display time and projects sections, along with projects graphs
+    plugin_wakatime_limit: 4                                  # Show 4 entries per graph
+    plugin_wakatime_url: http://wakapi.dev                    # Wakatime url endpoint
+    plugin_wakatime_user: .user.login                         # User
+
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=Clarisse78&show_icons=true&theme=dark"
