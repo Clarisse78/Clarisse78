@@ -29,3 +29,14 @@ Here are some ideas to get you started:
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Clarisse78&show_icons=true" />
 </picture>
+
+
+## </> Languages & Tools
+<div align="center">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rider-75072a?style=for-the-badge&logo=rider&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyCharm-024d0b?style=for-the-badge&logo=pycharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-073775?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</div>
