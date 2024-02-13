@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 </div>
 
 ### Contact me :
-
+[![LinkedIn](https://img.shields.io/badge/renaud.dov.devers-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucile-pelou-930aa4252/)
+[![Discord](https://img.shields.io/badge/bugbear-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/377784448243990538)
 
 ### Github Stats :
 ![Stats](https://github-readme-stats.vercel.app/api?username=Clarisse78&show_icons=true&bg_color=511E78,8B2F97,CF56A1&title_color=fff&text_color=fff&icon_color=fff)
