@@ -39,3 +39,5 @@ Here are some ideas to get you started:
 ### Github Stats :
 ![Stats](https://github-readme-stats.vercel.app/api?username=Clarisse78&show_icons=true&bg_color=511E78,8B2F97,CF56A1&title_color=fff&text_color=fff&icon_color=fff)
 ![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Clarisse78&show_icons=true&bg_color=511E78,8B2F97,CF56A1&title_color=fff&text_color=fff&icon_color=fff&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Clarisse78&theme=jolly&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Clarisse78&theme=jolly&hide_border=true&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
